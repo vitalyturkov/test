@@ -1,5 +1,7 @@
 # First Task:
 
+pip install -r requirements.txt
+
 import dcod
 
 dcod.run()
