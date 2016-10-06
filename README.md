@@ -1,6 +1,6 @@
 # test
 
->>> First Task:
+First Task:
 
 import dcod
 dcod.run()
